@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Muruga Anandh. I'm a software engineer with experience of 8 years.
-- 👀 I’m interested in Python technology and Machine learning.
+- 👋 Hi, I’m @Muruga Anandh. I'm a software developer with experience of 8 years.
+- 👀 I’m interested in Python and Machine learning.
 - 🌱 I’m currently learning Python course in Udemy and have recently completed Google Data Analytics course
 - 📫 You can contact me at murugaanandh03@gmail.com
 
