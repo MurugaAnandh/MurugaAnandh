@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Muruga Anandh. I'm a software developer with experience of 8 years.
-- 👀 I’m interested in Python and Machine learning.
-- 🌱 I’m currently learning Python course in Udemy and have recently completed Google Data Analytics course
-- 📫 You can contact me at murugaanandh03@gmail.com
+Hi there 👋
 
-<!---
-MurugaAnandh/MurugaAnandh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to MurugaAnandh's GitHub!
+
+About Me
+Results-oriented software professional with a proven track record in mainframe development, seeking a challenging career transition into the dynamic field of data analysis. 
+Seeking an opportunity to contribute to a data-driven team where I can apply my programming proficiency, analytical mindset, and passion for uncovering patterns in data to support organizational goals.
+
+Skills
+* Programming Languages: Python, COBOL, SQL, JCL
+* Technologies: Git, GitHub, Mochasoft, Visual Studio Code, Jupyter Notebook
+* Other Tools : JIRA, XLR, TOPAZ ISPW, Confluence
