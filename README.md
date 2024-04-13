@@ -37,3 +37,5 @@ Project at Bootcamp
   * Financial Calculator - The aim of this project was to develop a financial calculator for users. Constructed with Python, the calculator offers two options for users to select from. Users can opt to     
                            calculate the value of an investment over a specified number of years or determine their monthly bond repayment
   * Analysing Amazon Reviews - The analysis began by importing a comprehensive dataset containing customer reviews for various products sold on Amazon, using the Pandas library                                                           for data manipulation, NLP for tokenization and Sentiment Analysis for checking the polarity of the review comments.
+
+LinkedIn - https://www.linkedin.com/in/murugaanandh-vs-035ba342/
